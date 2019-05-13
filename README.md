@@ -1,2 +1,1 @@
-# .github.io-170441100127-knn-
-k-Nearest Neighbor (k-NN)
+# k-Nearest Neighbor (k-NN)
